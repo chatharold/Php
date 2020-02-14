@@ -1,0 +1,4 @@
+JS = Javascript
+CSS = Cascading stylesheet
+Html = hypertext markup language
+Php = Hypertext preprocessor
