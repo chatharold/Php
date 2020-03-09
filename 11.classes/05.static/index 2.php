@@ -40,4 +40,4 @@ class Store {
 // can not access private property
 // echo Store::$employees;
 
-Store::fetchAllEmployees();</Ex>
+Store::fetchAllEmployees();
